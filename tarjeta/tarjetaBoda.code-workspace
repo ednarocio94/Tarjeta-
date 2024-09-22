@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../landingPage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tarjeta"
+	}
+}
